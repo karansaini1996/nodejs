@@ -1,0 +1,36 @@
+[
+    {
+        "name": "karan",
+        "last_name" : "saini",
+        "age" : 24,
+        "id": 1
+
+    },
+    {
+        "name": "vivek",
+        "last_name" : "nasa",
+        "age" : 27,
+        "id": 2
+
+    },
+    {
+        "name": "varun",
+        "last_name" : "ahuja",
+        "age" : 25,
+        "id": 3
+
+    },
+    {
+        "name": "abcd ",
+        "last_name" : "xyz",
+        "age" : 28,
+        "id": 4
+
+    },{
+        "name": "a ",
+        "last_name" : "z",
+        "age" : 28,
+        "id": 5
+
+    }
+]
